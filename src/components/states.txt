@@ -1,0 +1,9 @@
+// states are used to handling events , checking the current state of the attribute
+// can be used to make new buttons so that we can make it more functionalities after 
+// clicking it 
+// for example - if we make a counter from 1 to 100 
+
+// to handle the states we have to make a event listeneres which will
+// handle the states of the target
+
+// things to add more in the project 
